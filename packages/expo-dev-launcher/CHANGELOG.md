@@ -8,7 +8,7 @@
 
 ### 🐛 Bug fixes
 
-- Fix reload button on iOS native error screen in certain cases.
+- Fix reload button on iOS native error screen in certain cases. ([#17272](https://github.com/expo/expo/pull/17272) by [@esamelson](https://github.com/esamelson))
 
 ### 💡 Others
 
