@@ -8,6 +8,8 @@
 
 ### 🐛 Bug fixes
 
+- Fix reload button on iOS native error screen in certain cases.
+
 ### 💡 Others
 
 ## 0.11.3 — 2022-04-26
